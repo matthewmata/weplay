@@ -1,4 +1,4 @@
-# weplay
+# We Play
 Mobile application for people to search for and create sporting events!
 
 ## Getting Started
